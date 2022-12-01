@@ -112,4 +112,4 @@ Para Rodar o projeto, siga as seguintes etapas :
 ## 📝Sobre a Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
-git 
+git
