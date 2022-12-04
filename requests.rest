@@ -1,5 +1,5 @@
 
-GET http://localhost:3003/character
+GET http://localhost:3003/character?name=Deadpoll
 
 ###
 
@@ -14,4 +14,4 @@ Content-Type: application/json
 
 ### 
 
-DELETE http://localhost:3003/character/1
+DELETE http://localhost:3003/character/3
