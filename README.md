@@ -62,7 +62,9 @@ Este é um projeto de Back-end, desenvolvido no bootcamp da Labenu, cujo o princ
 
 - **Documentação da API no Postman:** https://documenter.getpostman.com/view/22349688/2s8YzL5n1o
 
-- **Link do Render:** https://barros-labecommerce-backend27-5-ohio.onrender.com / https://barros-labecommerce-backend27-5-ohio.onrender.com/character
+- **Link do Render:** 
+     - https://barros-labecommerce-backend27-5-ohio.onrender.com 
+     - https://barros-labecommerce-backend27-5-ohio.onrender.com/character
 
 ---
 
