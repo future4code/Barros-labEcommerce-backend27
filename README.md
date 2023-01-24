@@ -76,9 +76,9 @@ Este é um projeto de Back-end, desenvolvido no bootcamp da Labenu, cujo o princ
 
 Para Rodar o projeto, siga as seguintes etapas :
 
-- COLOCAR A ETAPA 1
-- COLOCAR A ETAPA 2
-- COLOCAR A ETAPA 3
+- Rode o comando `npm install`
+- Adicione os dados de conexão do seu Banco de Dados em um arquivo .env
+- Rode o comando `npm start` no terminal
 
 
 ---
