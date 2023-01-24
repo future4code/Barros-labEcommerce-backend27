@@ -22,6 +22,8 @@ export default async function getAllCharacters(
 
         const offset = resultsPerPage * (Number(page) - 1) //solicitação do front chega como string (transformo em número)
 
+        debugger
+
         const characters: character[] = await connection("character")
             .where("name", "LIKE", `%${name}%`)
             .orderBy(orderBy as string || "name", orderType as string)
