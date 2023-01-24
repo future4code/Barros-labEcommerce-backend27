@@ -52,9 +52,12 @@ Este é um projeto de Back-end, desenvolvido no bootcamp da Labenu, cujo o princ
 
 ## ☑️Requisitos de Funcionalidade
 
-- [x] Obter as informações do Banco de Dados
+- [x] Obter todas as informações presentes no Banco de Dados (BD)
+- [x] Aplicar filtros na busca de informações presentes no BD
+- [x] Realizar busca ordenada de modo a obter resultados em ordem cresc/descrescente 
 - [x] Adicionar informações no Banco de Dados
 - [x] Deletar informações do Banco de Dados
+
 
 ---
 
