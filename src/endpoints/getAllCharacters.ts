@@ -25,7 +25,7 @@ export default async function getAllCharacters(
         debugger
 
         const characters: character[] = await connection("character")
-            .where("name", "LIKE", `%${name}%`)
+            .where("name", "LIKE", `%${name}%`) 
             .orderBy(orderBy as string || "name", orderType as string)
             .offset(offset)
 
